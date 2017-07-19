@@ -1,0 +1,13 @@
+/vendor/*
+/node_modules
+/bower_components
+/nbproject
+.env
+.vim
+.settings
+.externalToolBuilders
+.DS_Store
+/.sass-cache
+.idea
+lge.iml
+/.npm-debug.log
